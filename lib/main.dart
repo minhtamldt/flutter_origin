@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         body: Container(
-          child: Center(child: Text('Hello Flutter')),
+          child: Center(child: Text('Flutter 09/03/2023')),
         ),
 
       ),
