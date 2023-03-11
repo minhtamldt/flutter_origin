@@ -1,6 +1,6 @@
 # originflutter
 
-A new Flutter project.
+exercise in 11/03/2023
 
 ## Getting Started
 
