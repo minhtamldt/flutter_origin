@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_origin/demo_isolate.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,12 +25,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Scaffold(
-        body: Container(
-          child: Center(child: Text('Flutter 09/03/2023')),
-        ),
-
-      ),
+      home: DemoIsolateWidget()
     );
   }
 }
